@@ -1,0 +1,13 @@
+[Welcome]
+bindedkey=No Key
+repeat=1
+e={h down}
+e={h up}
+e={e down}
+e={e up}
+e={l down}
+e={l up}
+e={l down}
+e={l up}
+e={o down}
+e={o up}
